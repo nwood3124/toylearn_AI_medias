@@ -1,11 +1,11 @@
 ```
 
-🎥 3분 영상 프롬프트 스토리보드 (1안)
+## 3분 영상 프롬프트 스토리보드 (1안)
 
-작품명: 경주 월성과 메타버스, 공존의 시간
-총 길이: 약 3분
+### 작품명: 경주 월성과 메타버스, 공존의 시간
+### 총 길이: 약 3분
 
-⏱ 0:00 ~ 0:30 (인트로 – 과거의 잔영)
+### 0:00 ~ 0:30 (인트로 – 과거의 잔영)
 
 장면 설명:
 달빛에 비친 현재 경주 월성의 폐허. 고즈넉하고 신비로운 분위기. 카메라가 천천히 이동하며 폐허 위에 금빛 입자가 피어오름.
@@ -20,7 +20,7 @@ Negative Prompt:
 
 “cartoon, low resolution, modern buildings, daylight, noise”
 
-⏱ 0:30 ~ 1:30 (본편 Part 1 – 과거의 울림)
+### 0:30 ~ 1:30 (본편 Part 1 – 과거의 울림)
 
 장면 설명:
 폐허 위에 금빛 입자가 모여 궁궐이 다시 세워짐. 신라인 인물들이 축제와 의식을 벌임. 첨성대에서 별을 관측하는 장면. 전통적이지만 미디어아트적인 시각화.
@@ -39,7 +39,7 @@ AI 프롬프트 예시:
 
 “Cheomseongdae observatory under a star-filled sky, scholars watching constellations, glowing star maps emerging in holographic form, mystical ancient science, cinematic magic realism”
 
-⏱ 1:30 ~ 2:00 (본편 Part 2 – 메타버스로의 전환)
+### 1:30 ~ 2:00 (본편 Part 2 – 메타버스로의 전환)
 
 장면 설명:
 화면이 글리치 효과로 전환, 월성이 네온빛 사이버 도시 게이트로 변환. 전통 복장을 한 인물과 메타버스 아바타가 서로 마주 봄.
@@ -54,7 +54,7 @@ AI 프롬프트 예시:
 
 “traditional Korean figure in hanbok, standing opposite a futuristic hologram avatar with neon glow, facing each other in a symbolic encounter, cinematic lighting, contrast of past and future”
 
-⏱ 2:00 ~ 2:30 (클라이맥스 – 공존의 순간)
+### 2:00 ~ 2:30 (클라이맥스 – 공존의 순간)
 
 장면 설명:
 전통 인물과 디지털 아바타가 손을 맞잡음. 두 사람을 중심으로 빛의 파동이 퍼져 과거와 미래의 공간이 겹쳐짐.
@@ -65,7 +65,7 @@ AI 프롬프트 예시:
 
 “traditional Korean figure in hanbok holding hands with a futuristic digital avatar, glowing aurora-like energy waves expanding around them, blending ancient palace and cyber city in the background, highly cinematic, symbolic unity”
 
-⏱ 2:30 ~ 3:00 (아웃트로 – 달빛 아래의 미래)
+### 2:30 ~ 3:00 (아웃트로 – 달빛 아래의 미래)
 
 장면 설명:
 다시 달빛 아래 폐허로 돌아오지만, 그 위에 희미하게 미래 도시의 빛이 겹쳐 보임. 카메라 줌아웃, 달이 떠오르며 엔딩.
